@@ -1,5 +1,5 @@
 body {
-
+  background-color: #000 !important;
 }
 
 html, body {
@@ -10,6 +10,25 @@ html, body {
   overflow-x: hidden;
 }
 
-.Rami {
-  color: red;
+.bk-image {
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  border: blue;
+}
+
+.bk-padding {
+  padding-left: 370px;
+}
+
+.text {
+  color: #c2b280;
+  text-align: center;
+}
+
+.title-text {
+  padding-top: 25px;
+  padding-bottom: 50px;
+  text-align: center;
+  color: #c2b280;
 }
